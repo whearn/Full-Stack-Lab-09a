@@ -24,7 +24,7 @@ class Die {
     }
 }
 
-let myDice: Array<object> = [];
+let myDice: Array<Die> = [];
 let generateBtn: HTMLElement = document.getElementById('generate');;
 let rollBtn: HTMLElement = document.getElementById('roll');;
 let sumBtn: HTMLElement = document.getElementById('sum');;
