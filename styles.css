@@ -1,0 +1,11 @@
+.die {
+    width: 5em;
+    height: 5em;
+    border: 2px solid black;
+    text-align: center;
+    float: left;
+    margin: .5em;
+    line-height: 5em;
+    vertical-align: middle;
+    cursor: pointer;
+}
